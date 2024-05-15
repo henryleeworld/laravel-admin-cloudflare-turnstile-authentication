@@ -1,4 +1,4 @@
-# Laravel 10 後臺管理 Cloudflare Turnstile 登入
+# Laravel 11 後臺管理 Cloudflare Turnstile 登入
 
 Cloudflare Turnstile 是一款替代人機驗證（Captcha）的免費工具，還會阻止濫用行為，並確認訪客身分真偽，而無須擔心資料隱私或不良的人機驗證使用者體驗。
 
@@ -35,8 +35,8 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/72M1ibp.png)
+![](https://i.imgur.com/AGNetQE.png)
 > Cloudflare Turnstile 可讓網站訪客來到網站上保有隱私權，不需要犧牲有效性
 
-![](https://i.imgur.com/Os90mdV.png)
+![](https://i.imgur.com/kWZwVAg.png)
 > 為網站訪客帶來更勝以往的體驗
